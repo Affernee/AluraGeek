@@ -1,1 +1,1 @@
-![AluraGeek-Affernee](../AluraGeek/assets/AluraGeek%20Affernee.jpg)
+![AluraGeek-Affernee](,/assets/AluraGeek%20Affernee.jpg)
